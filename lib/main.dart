@@ -9,11 +9,11 @@ title: 'First App',
 home: Scaffold(
   backgroundColor: Colors.pinkAccent,
 appBar: AppBar(
-title: Text('Welcome to Flutter'),
+title: Text('Aplikasi Flutter'),
 backgroundColor: Colors.orangeAccent,
 ),
 body: Center(
-child: Text('Hello Rizma Sabillah'),
+child: Text('Selamat Datang di Flutter'),
 ),
 ),
 );
